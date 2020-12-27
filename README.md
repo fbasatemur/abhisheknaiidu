@@ -1,5 +1,6 @@
 ### Hey there <img align="left" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a align="left" href="linkedin.com/in/fatih-başatemur-93b6b21b2">
+
+<a align="left" href="https://www.linkedin.com/in/fatih-ba%C5%9Fatemur-93b6b21b2/">
   <img  alt="Fatih's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> 
 <!--
