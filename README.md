@@ -1,5 +1,7 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+### Hey there <img align="left" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a align="left" href="linkedin.com/in/fatih-başatemur-93b6b21b2">
+  <img  alt="Fatih's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a> 
 <!--
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -10,9 +12,7 @@
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 -->
-<a href="linkedin.com/in/fatih-başatemur-93b6b21b2">
-  <img align="left" alt="Fatih's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 <!--
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
@@ -74,8 +74,9 @@ Text   1 min           ▒░░░░░░░░░░░░░░░░░░
 <!--
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
--->
 🚧 **My Todoist Stats:**
+-->
+
 <!-- TODO-IST:START -->                
 ⏳  I am currently working on the repo: <br>
 [Non Subsampled Shearlet Transform](https://github.com/fbasatemur/Non-Subsampled_Shearlet_Transform)
@@ -86,7 +87,7 @@ If you want to know more about me, you can check my CV right now. 👉
 
 
 📈 My GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fbasatemur&show_icons=true&theme=gotham" alt="fbasatemur" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=fbasatemur&show_icons=true&theme=white" alt="fbasatemur" />
 
 
 
