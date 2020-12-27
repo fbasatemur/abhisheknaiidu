@@ -61,14 +61,12 @@ Hi, I'm Fatih Başatemur, a passionate self-taught Computer Vision & Python Deve
 <img align="left" src="https://miro.medium.com/max/1200/1*wwnExqe720PPHykHhs5Hqw.png" width="200">
 <img src="https://camo.githubusercontent.com/aeb4f612bd9b40d81c62fcbebd6db44a5d4344b8b962be0138817e18c9c06963/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f74665f6c6f676f5f686f72697a6f6e74616c2e706e67" width="200">
 <img align="left" src="https://www.tahirozdemir.com/uploads/2018/09/thumbnail.jpg" width="200">
-<img align="left" src="https://cdn.filestackcontent.com/uPPuFFskQoezJvzvNcHi" width="230">
-</a>  
+<img src="https://cdn.filestackcontent.com/uPPuFFskQoezJvzvNcHi" width="230">
+</a>
 
 
 <!-- TODO-IST:END -->
 
-
-<br><br><br><br><br><br>
 📈 My GitHub Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=fbasatemur&show_icons=true&theme=white" alt="fbasatemur" />
 
