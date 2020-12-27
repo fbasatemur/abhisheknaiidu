@@ -56,15 +56,15 @@ Hi, I'm Fatih Başatemur, a passionate self-taught Computer Vision & Python Deve
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <a>
-<img align="left" src="https://pbs.twimg.com/profile_images/865698590122844160/Kg5dYKkG_400x400.jpg" width="200">
-<img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8OdblredYTaQklKVw_RFm-qR-8IeIiYTBvw&usqp=CAU" width="200">
-<img align="left" src="https://miro.medium.com/max/1200/1*wwnExqe720PPHykHhs5Hqw.png" width="200">
-<img src="https://camo.githubusercontent.com/aeb4f612bd9b40d81c62fcbebd6db44a5d4344b8b962be0138817e18c9c06963/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f74665f6c6f676f5f686f72697a6f6e74616c2e706e67" width="200">
-<img align="left" src="https://www.tahirozdemir.com/uploads/2018/09/thumbnail.jpg" width="200">
-<img src="https://cdn.filestackcontent.com/uPPuFFskQoezJvzvNcHi" width="230">
+<img align="left" src="https://pbs.twimg.com/profile_images/865698590122844160/Kg5dYKkG_400x400.jpg" width="180">
+<img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8OdblredYTaQklKVw_RFm-qR-8IeIiYTBvw&usqp=CAU" width="180">
+<img align="left" src="https://miro.medium.com/max/1200/1*wwnExqe720PPHykHhs5Hqw.png" width="170">
+<img src="https://camo.githubusercontent.com/aeb4f612bd9b40d81c62fcbebd6db44a5d4344b8b962be0138817e18c9c06963/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f74665f6c6f676f5f686f72697a6f6e74616c2e706e67" width="170">
+<img align="left" src="https://www.tahirozdemir.com/uploads/2018/09/thumbnail.jpg" width="170">
+<img src="https://cdn.filestackcontent.com/uPPuFFskQoezJvzvNcHi" width="185">
 </a>
 
-
+<br>
 <!-- TODO-IST:END -->
 
 📈 My GitHub Stats
