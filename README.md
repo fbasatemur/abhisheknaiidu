@@ -30,6 +30,7 @@
 
 Hi, I'm Fatih Başatemur, a passionate self-taught Computer Vision & Python Developer 🚀 from Turkey. For years I have been developing myself on deep learning, computer vision and parallel programming and I'm currently a senior student at Karadeniz Technical University.
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 **Talking about Personal Stuffs:**
 
@@ -63,32 +64,15 @@ Hi, I'm Fatih Başatemur, a passionate self-taught Computer Vision & Python Deve
 </a>
 
 
-<!--START_SECTION:waka
-📊 **This Week I Spent My Time On:**
-```text
-C++    2 hrs 7 mins    ████████████████████████▓   98.93 % 
-Text   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-```
--->
-<!--END_SECTION:waka-->
-<!--
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-🚧 **My Todoist Stats:**
--->
-
-<!-- TODO-IST:START -->                
-⏳  I am currently working on the repo: <br>
-[Non Subsampled Shearlet Transform](https://github.com/fbasatemur/Non-Subsampled_Shearlet_Transform)
-
-If you want to know more about me, you can check my CV right now. 👉
-[fbasatemur/curriculum vitae](https://github.com/fbasatemur/Curriculum-Vitae-with-Latex/blob/master/CV_Latex.pdf)
 <!-- TODO-IST:END -->
 
 
+<br><br><br><br><br><br>
 📈 My GitHub Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=fbasatemur&show_icons=true&theme=white" alt="fbasatemur" />
 
+⏳  I am currently working on the repo: 👉 [Non Subsampled Shearlet Transform](https://github.com/fbasatemur/Non-Subsampled_Shearlet_Transform)
 
+If you want to know more about me, you can check my CV right now. 👉 [fbasatemur/curriculum vitae](https://github.com/fbasatemur/Curriculum-Vitae-with-Latex/blob/master/CV_Latex.pdf)
 
 
