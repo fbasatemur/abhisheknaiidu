@@ -65,9 +65,8 @@ Hi, I'm Fatih Başatemur, a passionate self-taught Computer Vision & Python Deve
 <img src="https://cdn.filestackcontent.com/uPPuFFskQoezJvzvNcHi" width="185">
 </a>
 
-<br>
-<!-- TODO-IST:END -->
 
+<!-- TODO-IST:END -->
 <!--
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -94,6 +93,7 @@ Hi, I'm Fatih Başatemur, a passionate self-taught Computer Vision & Python Deve
 </a>
 
 <br>
+
 
 ⏳  I am currently working on the repo: 👉 [Non Subsampled Shearlet Transform](https://github.com/fbasatemur/Non-Subsampled_Shearlet_Transform)
 
