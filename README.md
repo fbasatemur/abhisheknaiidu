@@ -40,7 +40,7 @@ Hi, I'm Fatih Başatemur, a passionate self-taught Computer Vision & Python Deve
 - 🌱 I’m currently learning DART/Flutter additionally Deep Learning and CUDA Parallel Programming; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: fatihbasatemur@gmail.com;
-- 📝 GNO: 3.43;
+- 📝 GNO: 3.48;
 
 
 **Languages and Tools:**
@@ -51,10 +51,13 @@ Hi, I'm Fatih Başatemur, a passionate self-taught Computer Vision & Python Deve
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/csharp/csharp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics//mysql/mysql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
 
 <a>
 <img align="left" src="https://pbs.twimg.com/profile_images/865698590122844160/Kg5dYKkG_400x400.jpg" width="165">
@@ -94,8 +97,7 @@ Hi, I'm Fatih Başatemur, a passionate self-taught Computer Vision & Python Deve
 
 <br>
 
-
-⏳  I am currently working on the repo: 👉 [Non Subsampled Shearlet Transform](https://github.com/fbasatemur/Non-Subsampled_Shearlet_Transform)
+<!--⏳  I am currently working on the repo: 👉 [Non Subsampled Shearlet Transform](https://github.com/fbasatemur/Non-Subsampled_Shearlet_Transform) -->
 
 If you want to know more about me, you can check my CV right now. 👉 [fbasatemur/curriculum vitae](https://github.com/fbasatemur/Curriculum-Vitae-with-Latex/blob/master/CV_Latex.pdf)
 
