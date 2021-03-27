@@ -1,5 +1,9 @@
-<p align="center"> <samp>Hi, I'm Fatih Başatemur, a passionate self-taught Computer Vision & Python Developer 🚀 from Turkey. For years I have been developing myself on deep learning, computer vision and parallel programming. I'm currently a senior student at Karadeniz Technical University.
+<img align="center" alt="GIF" src="https://github.com/fbasatemur/fbasatemur/blob/master/fbasatemur_intro.gif" />
+<br>
 
+<p align="center"> <samp>Hi, I'm Fatih Başatemur, a passionate self-taught Computer Vision & Python Developer 🚀 from Turkey. For years I have been developing myself on deep learning, computer vision and parallel programming. I'm currently a senior student at Karadeniz Technical University.
+<br>
+    
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
 <br>
 
@@ -69,11 +73,11 @@
   <img alt="Fatih's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkd" style="vertical-align:top margin:6px 4px">
 </a>
 <a align="center" href="https://www.facebook.com/fatih.basatemur.14">
-  <img alt="Fatih's facebook" src="https://img.shields.io/badge/Facebook-097CEB?style=for-the-badge&logo=facebook&logoColor=white" alt="linkd" style="vertical-align:top margin:6px 4px">
+  <img alt="Fatih's facebook" src="https://img.shields.io/badge/Facebook-097CEB?style=for-the-badge&logo=facebook&logoColor=white" alt="fb" style="vertical-align:top margin:6px 4px">
 </a> <br>
-<p align="center">
+<p align="left">
 If you want to know more about me 👉
-<a align="center" href="https://github.com/fbasatemur/Curriculum-Vitae-with-Latex/blob/master/CV_Latex.pdf"> fbasatemur/CV</a> 
+<a align="left" href="https://github.com/fbasatemur/Curriculum-Vitae-with-Latex/blob/master/CV_Latex.pdf"> fbasatemur/CV</a> 
 </p>
 <!--Profile Counter 
 ![Visitor Count](https://profile-counter.glitch.me/fbasatemur/count.svg)-->
