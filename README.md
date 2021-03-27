@@ -1,37 +1,6 @@
-### Hey there <img align="left" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<a align="left" href="https://www.linkedin.com/in/fatih-ba%C5%9Fatemur-93b6b21b2/">
-  <img  alt="Fatih's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> 
-<!--
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
--->
-<!--
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
--->
-
-<!--
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
--->
-<!--
-<a href="https://www.reddit.com/user/geekyabhi/">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
-</a>
--->
-<!--
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
--->
-
-Hi, I'm Fatih Başatemur, a passionate self-taught Computer Vision & Python Developer 🚀 from Turkey. For years I have been developing myself on deep learning, computer vision and parallel programming. I'm currently a senior student at Karadeniz Technical University.
+<p align="center"> <samp>Hi, I'm Fatih Başatemur, a passionate self-taught Computer Vision & Python Developer 🚀 from Turkey. For years I have been developing myself on deep learning, computer vision and parallel programming. I'm currently a senior student at Karadeniz Technical University.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
-
 <br>
 
 **Talking about Personal Stuffs:**
@@ -43,64 +12,70 @@ Hi, I'm Fatih Başatemur, a passionate self-taught Computer Vision & Python Deve
 - 📝 GNO: 3.48;
 
 
-**Languages and Tools:**
+### :rocket: Skill
+<a href="#"><p>
+    
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" style="vertical-align:top margin:6px 4px">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="vertical-align:top margin:6px 4px">
+  <img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="vertical-align:top margin:6px 4px">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" style="vertical-align:top margin:6px 4px">
+  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" style="vertical-align:top margin:6px 4px">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" style="vertical-align:top margin:6px 4px">
+  <img src="https://img.shields.io/badge/Flutter-0175C2?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" style="vertical-align:top margin:6px 4px">
+  <img src="https://img.shields.io/badge/QT-3FC74F?style=for-the-badge&logo=qt&logoColor=white" alt="qt" style="vertical-align:top margin:6px 4px">
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" style="vertical-align:top margin:6px 4px">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" style="vertical-align:top margin:6px 4px">
+    
+  <br>
+  <img src="https://img.shields.io/badge/Keras_API-F05032?style=for-the-badge&logo=keras&logoColor=white" alt="keras" style="vertical-align:top margin:6px 4px">
+<img src="https://img.shields.io/badge/Tensorflow-ED8B00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tf" style="vertical-align:top margin:6px 4px">
+<img src="https://img.shields.io/badge/OpenCV-ffffff?style=for-the-badge&logo=opencv&logoColor=red" alt="ocv" style="vertical-align:top margin:6px 4px">
+<img src="https://img.shields.io/badge/Darknet-YOLOV3-00FFFF?style=for-the-badge&logo=darknet&logoColor=white" alt="darknet" style="vertical-align:top margin:6px 4px">
+<img src="https://img.shields.io/badge/CUDA-Runtime API-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CRT" style="vertical-align:top margin:6px 4px">
+  
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-DD8A00?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" style="vertical-align:top margin:6px 4px">
+  <img src="https://img.shields.io/badge/MsSQL-5C2D91?style=for-the-badge&logoColor=white" alt="mssql" style="vertical-align:top margin:6px 4px">
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" alt="fireb" style="vertical-align:top margin:6px 4px">
+  
+  <br>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vsc" style="vertical-align:top margin:6px 4px">
+  <img src="https://img.shields.io/badge/VS_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="vs" style="vertical-align:top margin:6px 4px">
+  
+  <img src="https://img.shields.io/badge/Spyder-76B900?style=for-the-badge&logo=anaconda&logoColor=white" alt="spyder" style="vertical-align:top margin:6px 4px">
+  <img src="https://img.shields.io/badge/intellij_idea-121011?style=for-the-badge&logo=intellij%20idea&logoColor=white" alt="intellij_idea" style="vertical-align:top margin:6px 4px">
+  
+  <br>
+  <img src="https://img.shields.io/badge/Core_i5_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="intel" style="vertical-align:top margin:6px 4px">
+  <img src="https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="GPU" style="vertical-align:top margin:6px 4px">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" style="vertical-align:top margin:6px 4px">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Win" style="vertical-align:top margin:6px 4px">
+  
+</p>
+</a>  
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/csharp/csharp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+### &#x1f4c8; GitHub Stats
 
-<a>
-<img align="left" src="https://pbs.twimg.com/profile_images/865698590122844160/Kg5dYKkG_400x400.jpg" width="165">
-<img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8OdblredYTaQklKVw_RFm-qR-8IeIiYTBvw&usqp=CAU" width="165">
-<img align="left" src="https://miro.medium.com/max/1200/1*wwnExqe720PPHykHhs5Hqw.png" width="170">
-<img src="https://camo.githubusercontent.com/aeb4f612bd9b40d81c62fcbebd6db44a5d4344b8b962be0138817e18c9c06963/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f74665f6c6f676f5f686f72697a6f6e74616c2e706e67" width="170">
-<img align="left" src="https://www.tahirozdemir.com/uploads/2018/09/thumbnail.jpg" width="170">
-<img src="https://cdn.filestackcontent.com/uPPuFFskQoezJvzvNcHi" width="185">
-</a>
-
-
-<!-- TODO-IST:END -->
-<!--
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
--->
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/fbasatemur/fbasatemur">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbasatemur&hide=html&bg_color=white" />
-</a>
-<a href="https://github.com/fbasatemur/fbasatemur">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fbasatemur&show_icons=true&count_private=true&line_height=40px" alt="Fatih's GitHub Stats" />
-</a>
-
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbasatemur&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+![fbasatemur's GitHub stats](https://github-readme-stats.vercel.app/api?username=fbasatemur&show_icons=true&theme=react&hide=issues)
 
 <!--⏳  I am currently working on the repo: 👉 [Non Subsampled Shearlet Transform](https://github.com/fbasatemur/Non-Subsampled_Shearlet_Transform) -->
 
-If you want to know more about me, you can check my CV right now. 👉 [fbasatemur/curriculum vitae](https://github.com/fbasatemur/Curriculum-Vitae-with-Latex/blob/master/CV_Latex.pdf)
+<br>
 
-
+<a align="center" href="https://www.linkedin.com/in/fatih-ba%C5%9Fatemur-93b6b21b2/">
+  <img alt="Fatih's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkd" style="vertical-align:top margin:6px 4px">
+</a>
+<a align="center" href="https://www.facebook.com/fatih.basatemur.14">
+  <img alt="Fatih's facebook" src="https://img.shields.io/badge/Facebook-097CEB?style=for-the-badge&logo=facebook&logoColor=white" alt="linkd" style="vertical-align:top margin:6px 4px">
+</a> <br>
+<p align="center">
+If you want to know more about me 👉
+<a align="center" href="https://github.com/fbasatemur/Curriculum-Vitae-with-Latex/blob/master/CV_Latex.pdf"> fbasatemur/CV</a> 
+</p>
+<!--Profile Counter 
+![Visitor Count](https://profile-counter.glitch.me/fbasatemur/count.svg)-->
+ 
 
