@@ -3,14 +3,14 @@
 
 <p align="center"> <samp>Hi, I'm Fatih Başatemur, a passionate self-taught Computer Vision & Python Developer 🚀 from Turkey. For years I have been developing myself on deep learning, computer vision and parallel programming. I'm currently a senior student at Karadeniz Technical University.
 <br>
-    
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
+<br>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="225" />
 <br>
 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I'm currently working on something cool : It's very secret :wink:;
-- 🌱 I’m currently learning DART/Flutter additionally Deep Learning and CUDA Parallel Programming; 
+- 🌱 I’m currently learning GPU Programming and Deep Learning; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: fatihbasatemur@gmail.com;
 - 📝 GNO: 3.48;
@@ -36,8 +36,9 @@
 <img src="https://img.shields.io/badge/Tensorflow-ED8B00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tf" style="vertical-align:top margin:6px 4px">
 <img src="https://img.shields.io/badge/OpenCV-ffffff?style=for-the-badge&logo=opencv&logoColor=red" alt="ocv" style="vertical-align:top margin:6px 4px">
 <img src="https://img.shields.io/badge/Darknet-YOLOV3-00FFFF?style=for-the-badge&logo=darknet&logoColor=white" alt="darknet" style="vertical-align:top margin:6px 4px">
+<img src="https://img.shields.io/badge/OpenMP-006F78?style=for-the-badge&logo=openmp&logoColor=white" alt="ocv" style="vertical-align:top margin:6px 4px">
 <img src="https://img.shields.io/badge/CUDA-Runtime API-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CRT" style="vertical-align:top margin:6px 4px">
-  
+
   <br>
   <img src="https://img.shields.io/badge/MySQL-DD8A00?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" style="vertical-align:top margin:6px 4px">
   <img src="https://img.shields.io/badge/MsSQL-5C2D91?style=for-the-badge&logoColor=white" alt="mssql" style="vertical-align:top margin:6px 4px">
@@ -51,8 +52,8 @@
   <img src="https://img.shields.io/badge/intellij_idea-121011?style=for-the-badge&logo=intellij%20idea&logoColor=white" alt="intellij_idea" style="vertical-align:top margin:6px 4px">
   
   <br>
-  <img src="https://img.shields.io/badge/Core_i5_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="intel" style="vertical-align:top margin:6px 4px">
-  <img src="https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="GPU" style="vertical-align:top margin:6px 4px">
+  <img src="https://img.shields.io/badge/Ryzen_4600H-ffffff?style=for-the-badge&logo=AMD&logoColor=black" alt="linux" style="vertical-align:top margin:6px 4px">
+  <img src="https://img.shields.io/badge/NVIDIA-GTX1650TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="GPU" style="vertical-align:top margin:6px 4px">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" style="vertical-align:top margin:6px 4px">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Win" style="vertical-align:top margin:6px 4px">
   
