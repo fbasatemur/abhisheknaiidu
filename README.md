@@ -1,22 +1,18 @@
 <img align="center" alt="GIF" src="https://github.com/fbasatemur/fbasatemur/blob/master/fbasatemur_intro.gif" />
 <br>
 
-<p align="center"> <samp>Hi, I'm Fatih Başatemur, a passionate self-taught Computer Vision & Python Developer 🚀 from Turkey. For years I have been developing myself on deep learning, computer vision and parallel programming. I'm currently a senior student at Karadeniz Technical University.
-<br>
-<br>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="225" />
-<br>
-
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I'm currently working on something cool : It's very secret :wink:;
-- 🌱 I’m currently learning GPU Programming and Deep Learning; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: fatihbasatemur@gmail.com;
-- 📝 GNO: 3.48;
+<p align="center"> <samp>A passionate self-taught Computer Vision & AI & Parallel Programming Developer 🚀 from Turkey. For years I have been developing myself on deep learning, computer vision and parallel programming. This year, <br> I graduated from Karadeniz Technical University as High Honor student (GPA: 3.51/ 4.00).
+</p>
 
 
-### :rocket: Skill
+<p align="center"> 
+  <samp><a href="https://www.linkedin.com/in/fbasatemur" >linkedIn/fbasatemur</a> <br>
+        <a href="https://www.facebook.com/fatih.basatemur.14" >facebook/fbasatemur</a> <br>
+        <a href="mailto:fatihbasatemur@gmail.com?subject=Hello, from Github" >gmail/fbasatemur</a> <br>
+        <a href="https://github.com/fbasatemur/Curriculum-Vitae-with-Latex/blob/master/CV_Latex.pdf" >CV/fbasatemur</a> <br>
+</p>
+
+### :rocket: Skills
 <a href="#"><p>
     
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" style="vertical-align:top margin:6px 4px">
@@ -68,8 +64,8 @@
 
 <!--⏳  I am currently working on the repo: 👉 [Non Subsampled Shearlet Transform](https://github.com/fbasatemur/Non-Subsampled_Shearlet_Transform) -->
 
+<!--
 <br>
-
 <a align="center" href="https://www.linkedin.com/in/fatih-ba%C5%9Fatemur-93b6b21b2/">
   <img alt="Fatih's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkd" style="vertical-align:top margin:6px 4px">
 </a>
@@ -80,6 +76,8 @@
 If you want to know more about me 👉
 <a align="left" href="https://github.com/fbasatemur/Curriculum-Vitae-with-Latex/blob/master/CV_Latex.pdf"> fbasatemur/CV</a> 
 </p>
+-->
+ 
 <!--Profile Counter 
 ![Visitor Count](https://profile-counter.glitch.me/fbasatemur/count.svg)-->
  
